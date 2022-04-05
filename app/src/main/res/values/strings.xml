@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Simulator</string>
 
-    <string name="cd_simulate">Simulator Matches Buttob</string>
+    <string name="cd_simulate">Simulator Matches Buttom</string>
     <string name="cd_home_team">Imagem Home Team</string>
     <string name="txt_versus" translatable="false">X</string>
     <string name="cd_image_Away">Away team Image</string>
+    <string name="error_api">Unespected Error</string>
 </resources>
